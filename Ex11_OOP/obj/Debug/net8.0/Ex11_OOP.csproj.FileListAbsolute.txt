@@ -1,0 +1,14 @@
+C:\Users\Dang Dat\source\repos\Ex11_OOP\bin\Debug\net8.0\Ex11_OOP.exe
+C:\Users\Dang Dat\source\repos\Ex11_OOP\bin\Debug\net8.0\Ex11_OOP.deps.json
+C:\Users\Dang Dat\source\repos\Ex11_OOP\bin\Debug\net8.0\Ex11_OOP.runtimeconfig.json
+C:\Users\Dang Dat\source\repos\Ex11_OOP\bin\Debug\net8.0\Ex11_OOP.dll
+C:\Users\Dang Dat\source\repos\Ex11_OOP\bin\Debug\net8.0\Ex11_OOP.pdb
+C:\Users\Dang Dat\source\repos\Ex11_OOP\obj\Debug\net8.0\Ex11_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Dat\source\repos\Ex11_OOP\obj\Debug\net8.0\Ex11_OOP.AssemblyInfoInputs.cache
+C:\Users\Dang Dat\source\repos\Ex11_OOP\obj\Debug\net8.0\Ex11_OOP.AssemblyInfo.cs
+C:\Users\Dang Dat\source\repos\Ex11_OOP\obj\Debug\net8.0\Ex11_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Dang Dat\source\repos\Ex11_OOP\obj\Debug\net8.0\Ex11_OOP.dll
+C:\Users\Dang Dat\source\repos\Ex11_OOP\obj\Debug\net8.0\refint\Ex11_OOP.dll
+C:\Users\Dang Dat\source\repos\Ex11_OOP\obj\Debug\net8.0\Ex11_OOP.pdb
+C:\Users\Dang Dat\source\repos\Ex11_OOP\obj\Debug\net8.0\Ex11_OOP.genruntimeconfig.cache
+C:\Users\Dang Dat\source\repos\Ex11_OOP\obj\Debug\net8.0\ref\Ex11_OOP.dll
